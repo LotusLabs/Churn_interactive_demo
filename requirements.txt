@@ -11,7 +11,7 @@ lightgbm == 2.2.3
 mljar_supervised == 0.1.7
 
 # app.py: 5
-numpy == 1.17.2
+numpy == 1.22.0
 
 # app.py: 2
 pandas == 0.25.1
