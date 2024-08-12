@@ -23,7 +23,7 @@ plotly == 4.2.0
 sklearn == 0.0
 
 # app.py: 1
-streamlit == 0.48.1
+streamlit == 1.37.0
 
 # app.py: 276
 xgboost == 0.80
